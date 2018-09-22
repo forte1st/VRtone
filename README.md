@@ -23,4 +23,6 @@ Mallet（バチ）とVRtone（本体）が配置されたシーンです。こ�
 4. Malletを手に連動させる  
 Oculus Utilities for Unityを使用する場合、OVRCameraRigをシーンに配置して2本のMalletをそれぞれLeftHandAnchorとRightHandAnchorの子にしてください。Malletの位置と角度はいい感じに調整してください。  
 
+本体のインスペクタでキーの数、中央のキーのピッチ、キーの大きさ、黒鍵の位置、アシスト機能の強さをカスタマイズできます。また、Malletの中にあるSphereのAudio Sourceの音源を差し替えることで音色を変更できます。PrefabsフォルダのKeyのインスペクタでキーの色とキーの沈み込み量を変更できます。  
+
 利用方法に関してご不明な点がございましたらお気軽にtwitterでご連絡ください。
